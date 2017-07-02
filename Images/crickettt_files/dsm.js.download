@@ -1,0 +1,14 @@
+var cmTag = cmTag || {}; cmTag.dSettings ={
+    "199837": {
+        "pvpd":"javascript"
+    },
+    "178348": {
+        "pvpd":"javascript"
+    },
+    "188158": {
+        "pvpd":"javascript"
+    },
+    "202817": {
+        "pvpd":"javascript"
+    }
+}
