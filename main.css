@@ -69,6 +69,7 @@ body{
 .navbar-default .navbar-brand {
     color:white;
     padding-left: 50px;
+	
 }
 .btn-default {                            /*button of search bar*/
     color: #333;
@@ -86,6 +87,7 @@ body{
     height: 30px;
     width: 30px;
     margin-left: -39px;
+	 background-color: transparent; 
 	
     
 }
@@ -213,6 +215,7 @@ li{
  margin-left: 40px;
     margin-top: -30px;
     margin-bottom: -15px;
+	
 }
 
  
